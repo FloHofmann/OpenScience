@@ -1,1 +1,1 @@
-"# OpenScience" 
+# OpenScience
